@@ -1,25 +1,41 @@
-🔗 TriggerTrace
+🔗 TRIGGER TRACE 
 
 Link Every Asthma Attack to the Air Around It
 
 Theme: SDG 3 – Good Health and Well-being
-Version: 0.1 (Hackathon Prototype)
+Version: 1.0 (Hackathon Prototype)
 
-🔗 Overview
+-----------------------------------------------
+
+🔗 OVERVIEW
+
+-----------------------------------------------
 
 TriggerTrace is an installable Progressive Web App (PWA) designed to help people with asthma identify possible environmental triggers. It connects recorded asthma attacks with historical air quality and weather conditions such as PM2.5, humidity, temperature, and rainfall.
 
 By analysing attack days against symptom-free days, TriggerTrace identifies possible environmental patterns and generates a one-page PDF summary that users can share with their doctors.
 
-🔗 Problem Statement
+-----------------------------------------------
+
+🔗 PROBLEM STATEMENT 
+
+-----------------------------------------------
 
 People with asthma are often advised to avoid their triggers, but identifying personal triggers is difficult. Environmental conditions vary from person to person, while existing weather applications and traditional symptom diaries do not connect environmental data with individual asthma records. This makes it harder for patients and doctors to understand recurring patterns.
 
-🔗 Proposed Solution
+-----------------------------------------------
+
+🔗 PROPOSED SOLUTION 
+
+-----------------------------------------------
 
 TriggerTrace provides a simple way to record asthma attacks and automatically associate them with environmental information. Over time, it analyses the collected data to highlight possible patterns and provides organised reports for better doctor consultations.
 
-🔗 Key Features
+-----------------------------------------------
+
+🔗 KEY FEATURES
+
+-----------------------------------------------
 
 - One-Tap Attack Logging: Record an asthma attack in approximately two seconds.
 - Environmental Data Tracking: Automatically collect PM2.5, humidity, temperature, and rainfall.
@@ -31,7 +47,11 @@ TriggerTrace provides a simple way to record asthma attacks and automatically as
 - Caregiver Mode: Allow caregivers to record attacks for children and older adults.
 - Offline Support: Cache environmental data and support offline logging.
 
-🔗 Technology Stack
+-----------------------------------------------
+
+🔗 TECHNOLOGY STACK
+
+-----------------------------------------------
 
 - Frontend: Progressive Web App (PWA)
 - Backend: Python
@@ -39,9 +59,13 @@ TriggerTrace provides a simple way to record asthma attacks and automatically as
 - Weather API: Open-Meteo
 - Air Quality API: Open-Meteo Air Quality / OpenAQ
 - Analysis: Attack-rate ratios and statistical comparison
-- Reports: PDF generation and data visualisation
+- Reports: PDF generation and data visualisation .
 
-🔗 How It Works
+-----------------------------------------------
+
+🔗 HOW IT WORKS 
+
+-----------------------------------------------
 
 1. User records an asthma attack using the Attack Now button.
 2. The application stores the timestamp and district.
@@ -51,7 +75,11 @@ TriggerTrace provides a simple way to record asthma attacks and automatically as
 6. Possible patterns are displayed with confidence notes.
 7. A doctor-ready PDF report can be generated.
 
-🔗 Privacy & Safety
+-----------------------------------------------
+
+🔗 PRIVACY & SECURITY
+
+-----------------------------------------------
 
 - Uses synthetic data for the hackathon prototype.
 - Stores only district-level location information.
@@ -59,7 +87,11 @@ TriggerTrace provides a simple way to record asthma attacks and automatically as
 - Does not provide medical diagnosis or treatment recommendations.
 - Users must follow their prescribed asthma action plan. Emergencies should always be addressed before logging.
 
-🔗 Future Scope
+-----------------------------------------------
+
+🔗 FUTURE SCOPE
+
+-----------------------------------------------
 
 - Smart inhaler sensor integration.
 - Smartwatch-based attack detection.
@@ -69,7 +101,11 @@ TriggerTrace provides a simple way to record asthma attacks and automatically as
 - Clinic-based pilot testing.
 - Extension to migraines, allergies, and eczema.
 
-🔗 Expected Impact
+-----------------------------------------------
+
+🔗 EXPECTED IMPACT
+
+-----------------------------------------------
 
 TriggerTrace aims to improve asthma awareness, help individuals understand their personal environmental patterns, and provide doctors with more organised health histories.
 
