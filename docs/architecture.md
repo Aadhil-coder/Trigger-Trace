@@ -95,3 +95,5 @@ Summarises attack history and observed patterns for the doctor.
 
 **Doctor**
 Receives an organised history and the observed patterns.
+
+![TriggerTrace data flow](docs/architecture.md)
