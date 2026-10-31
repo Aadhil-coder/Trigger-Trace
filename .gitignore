@@ -1,0 +1,53 @@
+# ---------- Secrets and local settings ----------
+.env
+.env.*
+!.env.example
+
+# ---------- Python / Flask ----------
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ---------- Databases (never commit health data) ----------
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# ---------- Real or private data (demo uses synthetic data only) ----------
+data/private/
+data/real/
+
+# ---------- Node / React / Vite ----------
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- Generated files ----------
+*.log
+logs/
+tmp/
+*.tmp
+reports_output/
+
+# ---------- Editors ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
