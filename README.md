@@ -102,9 +102,48 @@ TriggerTrace provides:
 
 ## Architecture
 
-TriggerTrace has five layers: the **PWA** (user input), **external data APIs** (weather and air quality), the **Flask backend**, the **SQLite database**, and the **analysis engine** that produces patterns and reports.
+TriggerTrace has five layers: the **PWA** collects user input, **external APIs** provide weather and air quality, the **Flask backend** stores and processes data, the **SQLite database** holds records, and the **analysis engine** produces possible patterns and the doctor report.
 
-For the full data flow diagram and component details, see **[Architecture](docs/architecture.md)**.
+```mermaid
+flowchart TD
+  U["User / Caregiver<br/>Logs attack or daily check-in"]
+  AL["Attack Logging<br/>One-tap Attack Now<br/>Timestamp + District"]
+  CI["Evening Check-in<br/>Yes / No (daily)"]
+  PWA["TriggerTrace PWA<br/>Collects input, sends to backend"]
+  WA["Weather API<br/>Open-Meteo<br/>Temperature, Humidity, Rainfall"]
+  AQ["Air Quality API<br/>Open-Meteo / OpenAQ<br/>PM2.5"]
+  BE["Backend (Flask)<br/>Processes requests<br/>Fetches and caches data"]
+  DB[("Database (SQLite)<br/>Attacks, check-ins,<br/>environmental data")]
+  AN["Data Analysis Engine<br/>Daily table, lagged features<br/>L2 logistic regression<br/>Odds ratios with ranges"]
+  Q{"Sufficient data?<br/>10+ attacks and<br/>30+ check-in days"}
+  PD["Pattern Detection<br/>Range above or below 1 = possible pattern<br/>Range crossing 1 = no clear pattern"]
+  NE["Not enough data yet<br/>Keep collecting data"]
+  PC["Pattern Charts<br/>In-app view"]
+  PDF["Doctor-ready PDF<br/>One-page summary"]
+  DR["Doctor<br/>Receives organised history"]
+
+  U --> AL
+  U --> CI
+  AL --> PWA
+  CI --> PWA
+  PWA --> BE
+  WA --> BE
+  AQ --> BE
+  BE --> DB
+  BE --> AN
+  AN --> Q
+  Q -->|Yes| PD
+  Q -->|No| NE
+  PD --> PC
+  PD --> PDF
+  NE --> PDF
+  PC --> DR
+  PDF --> DR
+```
+
+> **Note:** Results are **possible patterns, not causes**.
+
+For the full component details, see **[Architecture details](docs/architecture.md)**.
 
 ---
 
