@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1220 1350" width="1220" height="1350" font-family="Helvetica, Arial, sans-serif" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTozZjJhNWQzNC0wMWJmLTRmM2YtYjc5Yy1iNjJiZWE1MGJmYjgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaABAfeg5TG6MS1m8tC0Em6UAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4MTczZjliYS0xYTBmLTRiMzAtYTIxNi1kNGM1Y2JmYmFjNWJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoSQ4yksMLpNc5bUCyExLhbAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggeUjpKEavb5nlE0BTmN7uv0ZDoD3i2ycKFXpVnfBlq/ikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaC6aRDlY+MV0oVa0fIr673cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAGp8eOkzhbeFq5bYLSQd99AEXxIsTtJTOPtP7XemDvaWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjFZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjNmMmE1ZDM0LTAxYmYtNGYzZi1iNzljLWI2MmJlYTUwYmZiOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjYzNjJmN2FmLWY3ZjAtNGJiNi1iNDRmLTFhOGFiYTNjZjljMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB5SOkoRq9vmeUTQFOY3u6/RkOgPeLbJwoVelWd8GWr+KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggV5TKwmqGRL5apmmjpnzZ7YMNo4dwwytkdAHHkvLTEjWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggkwFdVCfdUwoF/4w2H8t5rSC3//ZjUo5gwGke1TWggLZ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQN2I5dQ041Np9OvnkcwDWSXXsfYD69j24EIcnNJkAF5b2PBwNhgvPJ1PACrzQ1nuGG1v1itVHTdUqp+cf06c68I=</c2pa:manifest></metadata>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3B3BA8"/>
+    </marker>
+    <marker id="arrowTeal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#0F7C7C"/>
+    </marker>
+    <marker id="arrowOrange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#E08A00"/>
+    </marker>
+  </defs>
+
+  <rect width="1220" height="1350" fill="#FFFFFF"/>
+
+  <!-- Title -->
+  <rect x="370" y="14" width="484" height="112" rx="16" fill="#D8F5EA" stroke="#7FD3B0" stroke-width="2"/>
+  <text x="612" y="58" text-anchor="middle" font-size="36" font-weight="700" fill="#0B2545">TriggerTrace</text>
+  <text x="612" y="90" text-anchor="middle" font-size="24" font-weight="600" fill="#0B2545">Data Flow</text>
+  <text x="612" y="116" text-anchor="middle" font-size="16" fill="#0B2545">Link every asthma attack to the air around it</text>
+
+  <!-- 1. User / Caregiver -->
+  <rect x="363" y="145" width="500" height="85" rx="8" fill="#ECE8FB" stroke="#7B6CD9" stroke-width="2"/>
+  <circle cx="445" cy="187" r="14" fill="#3B3BA8"/>
+  <path d="M422,236 Q422,207 445,207 Q468,207 468,236 Z" fill="#3B3BA8" transform="translate(0,-30)"/>
+  <text x="500" y="176" font-size="20" font-weight="700" fill="#1E1E5C">1.  User / Caregiver</text>
+  <text x="528" y="200" font-size="15" fill="#1E1E5C">Logs attack or daily check-in</text>
+  <text x="528" y="220" font-size="15" fill="#1E1E5C">(parent/caregiver can log for others)</text>
+
+  <!-- Arrows from user -->
+  <line x1="450" y1="230" x2="450" y2="260" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="778" y1="230" x2="778" y2="260" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Attack logging -->
+  <rect x="292" y="262" width="296" height="86" rx="8" fill="#FDE2E4" stroke="#E0484F" stroke-width="2"/>
+  <circle cx="338" cy="296" r="22" fill="#C42032"/>
+  <text x="318" y="304" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">⚡</text>
+  <text x="382" y="290" font-size="18" font-weight="700" fill="#5C0F16">Attack Logging</text>
+  <text x="382" y="312" font-size="14" fill="#5C0F16">• One-tap "Attack Now"</text>
+  <text x="382" y="332" font-size="14" fill="#5C0F16">• Timestamp + District</text>
+
+  <!-- Check-in -->
+  <rect x="637" y="262" width="296" height="86" rx="8" fill="#FFEBC9" stroke="#F0A030" stroke-width="2"/>
+  <rect x="660" y="274" width="38" height="36" rx="4" fill="#B0650A"/>
+  <rect x="660" y="274" width="38" height="10" rx="2" fill="#7A4306"/>
+  <text x="717" y="290" font-size="18" font-weight="700" fill="#5C3504">Evening Symptom Check-in</text>
+  <text x="717" y="312" font-size="14" fill="#5C3504">• Yes / No</text>
+  <text x="717" y="332" font-size="14" fill="#5C3504">• (Daily)</text>
+
+  <!-- Merge into PWA -->
+  <line x1="440" y1="348" x2="440" y2="362" stroke="#3B3BA8" stroke-width="2"/>
+  <line x1="780" y1="348" x2="780" y2="362" stroke="#3B3BA8" stroke-width="2"/>
+  <line x1="440" y1="362" x2="780" y2="362" stroke="#3B3BA8" stroke-width="2"/>
+  <line x1="612" y1="362" x2="612" y2="385" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- PWA -->
+  <rect x="418" y="385" width="390" height="88" rx="8" fill="#DCEBFB" stroke="#4A86D8" stroke-width="2"/>
+  <rect x="462" y="400" width="22" height="50" rx="4" fill="#1F4E8C"/>
+  <rect x="466" y="406" width="14" height="36" rx="2" fill="#DCEBFB"/>
+  <text x="532" y="419" font-size="20" font-weight="700" fill="#0B2F5C">TriggerTrace PWA</text>
+  <text x="532" y="442" font-size="15" fill="#0B2F5C">Collects user input and sends</text>
+  <text x="532" y="462" font-size="15" fill="#0B2F5C">data to backend</text>
+
+   <!-- Weather API -->
+  <rect x="17" y="420" width="296" height="105" rx="8" fill="#D4F2EC" stroke="#2BA08A" stroke-width="2"/>
+  <text x="108" y="450" font-size="18" font-weight="700" fill="#0B4F44">Weather API</text>
+  <text x="108" y="470" font-size="13" fill="#0B4F44">(Open-Meteo)</text>
+  <text x="122" y="492" font-size="14" fill="#0B4F44">• Temperature</text>
+  <text x="122" y="512" font-size="14" fill="#0B4F44">• Humidity</text>
+  <text x="122" y="532" font-size="14" fill="#0B4F44">• Rainfall</text>
+  <line x1="313" y1="472" x2="362" y2="472" stroke="#0F7C7C" stroke-width="2"/>
+  <line x1="362" y1="472" x2="362" y2="526" stroke="#0F7C7C" stroke-width="2"/>
+  <line x1="362" y1="526" x2="422" y2="526" stroke="#0F7C7C" stroke-width="2" marker-end="url(#arrowTeal)"/>
+
+  <!-- Air quality API -->
+  <rect x="17" y="551" width="296" height="86" rx="8" fill="#D4F2EC" stroke="#2BA08A" stroke-width="2"/>
+  <text x="108" y="581" font-size="18" font-weight="700" fill="#0B4F44">Air Quality API</text>
+  <text x="108" y="601" font-size="13" fill="#0B4F44">(Open-Meteo / OpenAQ)</text>
+  <text x="122" y="623" font-size="14" fill="#0B4F44">• PM2.5</text>
+  <line x1="313" y1="594" x2="362" y2="594" stroke="#0F7C7C" stroke-width="2"/>
+  <line x1="362" y1="594" x2="362" y2="560" stroke="#0F7C7C" stroke-width="2"/>
+  <line x1="362" y1="560" x2="424" y2="560" stroke="#0F7C7C" stroke-width="2" marker-end="url(#arrowTeal)"/>
+
+  <!-- Backend -->
+  <rect x="424" y="503" width="378" height="117" rx="8" fill="#E6DDFA" stroke="#7B5FD9" stroke-width="2"/>
+  <rect x="455" y="530" width="30" height="48" rx="6" fill="#3B2D8C"/>
+  <text x="508" y="537" font-size="20" font-weight="700" fill="#2A1D6B">Backend (Python)</text>
+  <text x="508" y="560" font-size="14" fill="#2A1D6B">• Processes requests (Flask)</text>
+  <text x="508" y="580" font-size="14" fill="#2A1D6B">• Fetches environmental data</text>
+  <text x="508" y="600" font-size="14" fill="#2A1D6B">• Stores data in database</text>
+  <line x1="802" y1="561" x2="886" y2="561" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Database -->
+  <rect x="888" y="495" width="316" height="117" rx="8" fill="#DCEBFB" stroke="#4A86D8" stroke-width="2"/>
+  <ellipse cx="945" cy="530" rx="22" ry="8" fill="none" stroke="#1F4E8C" stroke-width="3"/>
+  <path d="M923,530 L923,565 A22,8 0 0 0 967,565 L967,530" fill="none" stroke="#1F4E8C" stroke-width="3"/>
+  <text x="997" y="525" font-size="18" font-weight="700" fill="#0B2F5C">Database (SQLite)</text>
+  <text x="1012" y="550" font-size="14" fill="#0B2F5C">• Attack records</text>
+  <text x="1012" y="570" font-size="14" fill="#0B2F5C">• Symptom check-ins</text>
+  <text x="1012" y="590" font-size="14" fill="#0B2F5C">• Environmental data</text>
+
+  <!-- Backend to analysis -->
+  <line x1="612" y1="620" x2="612" y2="640" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Data Analysis Engine (updated) -->
+  <rect x="389" y="640" width="444" height="200" rx="8" fill="#E6DDFA" stroke="#7B5FD9" stroke-width="2"/>
+  <circle cx="450" cy="700" r="20" fill="none" stroke="#3B2D8C" stroke-width="5" stroke-dasharray="6 4"/>
+  <circle cx="450" cy="700" r="7" fill="#3B2D8C"/>
+  <text x="484" y="676" font-size="19" font-weight="700" fill="#2A1D6B">Data Analysis Engine</text>
+  <text x="484" y="698" font-size="13.5" fill="#2A1D6B">• Builds daily table: attack yes/no per day</text>
+  <text x="484" y="717" font-size="13.5" fill="#2A1D6B">• Counts only checked-in days as symptom-free</text>
+  <text x="484" y="736" font-size="13.5" fill="#2A1D6B">• PM2.5, humidity, temperature, rainfall</text>
+  <text x="484" y="753" font-size="13.5" fill="#2A1D6B">   (same-day + previous 1–2 days, lag)</text>
+  <text x="484" y="772" font-size="13.5" fill="#2A1D6B">• Regularized logistic regression (L2)</text>
+  <text x="484" y="791" font-size="13.5" fill="#2A1D6B">• Odds ratios with bootstrapped ranges</text>
+  <text x="484" y="810" font-size="13.5" fill="#2A1D6B">• Attack-rate comparison as sanity check</text>
+  <text x="484" y="829" font-size="13.5" fill="#2A1D6B">• Applies confidence rules</text>
+
+  <line x1="612" y1="840" x2="612" y2="862" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Decision diamond -->
+  <polygon points="612,862 748,912 612,962 476,912" fill="#D4ECFD" stroke="#2C8FD9" stroke-width="2"/>
+  <text x="612" y="907" text-anchor="middle" font-size="15" font-weight="700" fill="#0B2F5C">Sufficient Data?</text>
+  <text x="612" y="926" text-anchor="middle" font-size="13" fill="#0B2F5C">(≥ 10 attacks &amp;</text>
+  <text x="612" y="944" text-anchor="middle" font-size="13" fill="#0B2F5C">≥ 30 check-in days)</text>
+
+  <!-- Yes branch -->
+  <line x1="476" y1="912" x2="410" y2="912" stroke="#3B3BA8" stroke-width="2"/>
+  <rect x="374" y="901" width="72" height="30" rx="8" fill="#CFF7DA" stroke="#2EAA55" stroke-width="2"/>
+  <text x="410" y="922" text-anchor="middle" font-size="15" font-weight="700" fill="#14552A">Yes</text>
+  <line x1="410" y1="931" x2="410" y2="948" stroke="#3B3BA8" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- No branch -->
+  <line x1="748" y1="912" x2="796" y2="912" stroke="#3B3BA8" stroke-width="2"/>
+  <rect x="796" y="901" width="64" height="30" rx="8" fill="#FFE3B8" stroke="#E08A00" stroke-width="2"/>
+  <text x="828" y="922" text-anchor="middle" font-size="15" font-weight="700" fill="#5C3504">No</text>
+  <line x1="880" y1="931" x2="880" y2="948" stroke="#E08A00" stroke-width="2" marker-end="url(#arrowOrange)"/>
+
+  <!-- Pattern Detection (updated) -->
+  <rect x="271" y="948" width="308" height="150" rx="8" fill="#D2F5E6" stroke="#2EAA7A" stroke-width="2"/>
+  <rect x="296" y="988" width="10" height="26" fill="#1E7F55"/>
+  <rect x="312" y="976" width="10" height="38" fill="#1E7F55"/>
+  <rect x="328" y="966" width="10" height="48" fill="#1E7F55"/>
+  <text x="352" y="975" font-size="19" font-weight="700" fill="#0D4A30">Pattern Detection</text>
+  <text x="352" y="996" font-size="13" fill="#0D4A30">• Factors whose odds-ratio range sits</text>
+  <text x="352" y="1013" font-size="13" fill="#0D4A30">   clearly above or below 1 = possible pattern</text>
+  <text x="352" y="1032" font-size="13" fill="#0D4A30">• Ranges crossing 1 = "no clear pattern"</text>
+  <text x="352" y="1051" font-size="13" fill="#0D4A30">• Confidence note shown with every result</text>
+  <text x="352" y="1070" font-size="13" fill="#0D4A30">• Possible pattern, never a cause</text>
+
+   <!-- Not enough data -->
+  <rect x="758" y="948" width="224" height="104" rx="8" fill="#FFF4CC" stroke="#E8B52A" stroke-width="2"/>
+  <circle cx="798" cy="985" r="16" fill="#8A6A10"/>
+  <text x="798" y="992" text-anchor="middle" font-size="18" font-weight="700" fill="#FFFFFF">i</text>
+  <text x="826" y="980" font-size="16" font-weight="700" fill="#4A3808">Not enough data yet</text>
+  <text x="826" y="1000" font-size="13" fill="#4A3808">Show message and</text>
+  <text x="826" y="1018" font-size="13" fill="#4A3808">continue collecting data</text>
+  <line x1="880" y1="1052" x2="880" y2="1087" stroke="#1F4E8C" stroke-width="2"/>
+  <line x1="880" y1="1087" x2="718" y2="1087" stroke="#1F4E8C" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Split from pattern detection -->
+  <line x1="425" y1="1098" x2="425" y2="1112" stroke="#1F4E8C" stroke-width="2"/>
+  <line x1="318" y1="1112" x2="530" y2="1112" stroke="#1F4E8C" stroke-width="2"/>
+  <line x1="318" y1="1112" x2="318" y2="1128" stroke="#1F4E8C" stroke-width="2" marker-end="url(#arrow)"/>
+  <line x1="530" y1="1112" x2="530" y2="1128" stroke="#1F4E8C" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Pattern charts -->
+  <rect x="197" y="1128" width="243" height="72" rx="8" fill="#D4F7F7" stroke="#2BA8A8" stroke-width="2"/>
+  <rect x="222" y="1158" width="8" height="24" fill="#0F6E6E"/>
+  <rect x="234" y="1148" width="8" height="34" fill="#0F6E6E"/>
+  <rect x="246" y="1154" width="8" height="28" fill="#0F6E6E"/>
+  <text x="264" y="1155" font-size="17" font-weight="700" fill="#0B4F4F">Pattern Charts</text>
+  <text x="264" y="1176" font-size="14" fill="#0B4F4F">(in-app view)</text>
+
+  <!-- Doctor PDF -->
+  <rect x="462" y="1128" width="254" height="72" rx="8" fill="#FDE2EE" stroke="#E0609A" stroke-width="2"/>
+  <rect x="480" y="1144" width="26" height="34" rx="3" fill="#C42032"/>
+  <text x="493" y="1166" text-anchor="middle" font-size="9" font-weight="700" fill="#FFFFFF">PDF</text>
+  <text x="520" y="1155" font-size="17" font-weight="700" fill="#5C0F2E">Doctor-ready PDF</text>
+  <text x="520" y="1176" font-size="14" fill="#5C0F2E">(one-page summary)</text>
+
+  <!-- Merge to doctor -->
+  <line x1="318" y1="1200" x2="318" y2="1215" stroke="#1F4E8C" stroke-width="2"/>
+  <line x1="589" y1="1200" x2="589" y2="1215" stroke="#1F4E8C" stroke-width="2"/>
+  <line x1="318" y1="1215" x2="589" y2="1215" stroke="#1F4E8C" stroke-width="2"/>
+  <line x1="453" y1="1215" x2="453" y2="1240" stroke="#1F4E8C" stroke-width="2" marker-end="url(#arrow)"/>
+
+  <!-- Doctor -->
+  <rect x="308" y="1240" width="418" height="82" rx="8" fill="#E6DDFA" stroke="#7B5FD9" stroke-width="2"/>
+  <circle cx="368" cy="1270" r="12" fill="#3B2D8C"/>
+  <path d="M344,1310 Q344,1284 368,1284 Q392,1284 392,1310 Z" fill="#3B2D8C"/>
+  <text x="418" y="1275" font-size="19" font-weight="700" fill="#2A1D6B">Doctor</text>
+  <text x="418" y="1297" font-size="14" fill="#2A1D6B">Receives organised history and</text>
+  <text x="418" y="1314" font-size="14" fill="#2A1D6B">observed patterns</text>
+</svg>
