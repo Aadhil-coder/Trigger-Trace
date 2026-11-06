@@ -6,7 +6,7 @@ Team HEAL 4 ALL · Theme: SDG 3, Good Health and Well-being
 
 | File | What it is |
 |---|---|
-| [Asthma_Trigger_Final_v2.pptx](Asthma_Trigger_Final_v2.pptx) | Final 9-slide pitch deck |
+| [TRIGGER TRACE Final pitch](Asthma_Trigger_Final_pitch.pptx) | Final 9-slide pitch deck |
 | Demo video | Add link here: <paste link> |
 
 ## Team
