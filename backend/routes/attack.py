@@ -22,14 +22,16 @@ def create_attack():
         return jsonify(error="profile_id must be a number"), 400
 
     logged_later = 0
-    if data.get("attacked_at"):  # back-dated entry
+        if data.get("attacked_at"):
         try:
             ts = datetime.fromisoformat(data["attacked_at"])
         except ValueError:
             return jsonify(error="attacked_at must be ISO 8601, e.g. 2026-11-06T18:00"), 400
-        logged_later = 1
+        # A live one-tap log sends live=true, so it is not marked "logged later"
+        logged_later = 0 if data.get("live") else 1
     else:
         ts = datetime.now().replace(microsecond=0)
+        logged_later = 0
 
     db = get_db()
     cur = db.execute(
