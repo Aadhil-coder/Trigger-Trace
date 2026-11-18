@@ -1,21 +1,25 @@
 export default function SafetyNotice({ onAccept }) {
   return (
-    <main className="safety-screen">
-      <section className="safety-card" aria-labelledby="safety-title">
-        <h1 id="safety-title">Safety notice</h1>
+    <div className="safety-screen">
+      <div className="safety-card">
+        <h1>Before you start</h1>
+
         <p>
-          TriggerTrace helps you record asthma attacks and notice patterns. It
-          does not provide medical advice or replace care from a healthcare
-          professional.
+          <strong>During a severe attack, use your inhaler and follow your asthma action plan,
+          or call emergency services first.</strong> Log the attack afterwards.
         </p>
-        <p>
-          During a severe attack, follow your asthma action plan or call
-          emergency services first. Do not delay treatment to use this app.
-        </p>
+
+        <ul>
+          <li>TriggerTrace finds <strong>possible patterns</strong>. It does not diagnose and does not give treatment advice.</li>
+          <li>Patterns are not causes. Discuss them with your doctor.</li>
+          <li>The demo uses <strong>synthetic data</strong>. No real patient records are used.</li>
+          <li>Only your district is stored, not your exact location.</li>
+        </ul>
+
         <button className="btn btn-primary btn-block" onClick={onAccept}>
-          I understand, continue
+          I understand
         </button>
-      </section>
-    </main>
+      </div>
+    </div>
   );
 }
