@@ -5,6 +5,9 @@ Order of use:
 2. If hours are missing, fetch them from Open-Meteo and store them.
 3. Save each raw response in CACHE_DIR, so the demo can replay it offline.
 
+Synthetic districts (name contains "synthetic") are never fetched from the internet,
+so the demo data cannot be overwritten with real values.
+
 Set USE_CACHE_ONLY=1 in .env to never call the internet.
 """
 import json
@@ -23,6 +26,10 @@ CACHE_DIR = os.path.join(config.BASE_DIR, "..", os.getenv("CACHE_DIR", "data/cac
 
 def _use_cache_only():
     return os.getenv("USE_CACHE_ONLY", "0") == "1"
+
+
+def _is_synthetic(district):
+    return "synthetic" in district.lower()
 
 
 def _hour_key(t):
@@ -84,15 +91,15 @@ def _save_raw(name, payload):
 def get_hourly(district, start, end, lat=None, lon=None):
     """Return hourly rows between two dates (inclusive), fetching any gaps first.
 
-    If hours are missing and the fetch can't run (no internet, or no coordinates
-    in .env), the cached rows are returned instead of an error.
+    If hours are missing and the fetch can't run (synthetic district, no internet,
+    or no coordinates in .env), the cached rows are returned instead of an error.
     """
     expected = ((end - start).days + 1) * 24
     rows = _load_cached(district, start, end)
 
     lat = lat if lat is not None else os.getenv("DEFAULT_LATITUDE")
     lon = lon if lon is not None else os.getenv("DEFAULT_LONGITUDE")
-    needs_fetch = len(rows) < expected and not _use_cache_only()
+    needs_fetch = len(rows) < expected and not _use_cache_only() and not _is_synthetic(district)
 
     if needs_fetch and (not lat or not lon):
         print("Some hours are missing and DEFAULT_LATITUDE/DEFAULT_LONGITUDE are not set. Using cached data only.")
