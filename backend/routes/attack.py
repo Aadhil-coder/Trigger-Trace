@@ -22,7 +22,7 @@ def create_attack():
         return jsonify(error="profile_id must be a number"), 400
 
     logged_later = 0
-        if data.get("attacked_at"):
+    if data.get("attacked_at"):
         try:
             ts = datetime.fromisoformat(data["attacked_at"])
         except ValueError:
