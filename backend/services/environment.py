@@ -84,21 +84,23 @@ def _save_raw(name, payload):
 def get_hourly(district, start, end, lat=None, lon=None):
     """Return hourly rows between two dates (inclusive), fetching any gaps first.
 
-    Each row is a dict with observed_at, pm2_5, humidity, temperature and rainfall.
-    If the internet fails, the cached rows are returned instead.
+    If hours are missing and the fetch can't run (no internet, or no coordinates
+    in .env), the cached rows are returned instead of an error.
     """
     expected = ((end - start).days + 1) * 24
     rows = _load_cached(district, start, end)
 
-    if len(rows) < expected and not _use_cache_only():
-        lat = lat if lat is not None else os.getenv("DEFAULT_LATITUDE")
-        lon = lon if lon is not None else os.getenv("DEFAULT_LONGITUDE")
-        if not lat or not lon:
-            raise RuntimeError("Set DEFAULT_LATITUDE and DEFAULT_LONGITUDE in .env to fetch data.")
+    lat = lat if lat is not None else os.getenv("DEFAULT_LATITUDE")
+    lon = lon if lon is not None else os.getenv("DEFAULT_LONGITUDE")
+    needs_fetch = len(rows) < expected and not _use_cache_only()
+
+    if needs_fetch and (not lat or not lon):
+        print("Some hours are missing and DEFAULT_LATITUDE/DEFAULT_LONGITUDE are not set. Using cached data only.")
+    elif needs_fetch:
         try:
             weather, air = _fetch_remote(float(lat), float(lon), start, end)
         except requests.RequestException as err:
-            print(f"Environment fetch failed, using cache only: {err}")
+            print(f"Environment fetch failed, using cached data only: {err}")
         else:
             slug = district.lower().replace(" ", "_")
             _save_raw(f"open_meteo_{slug}_{start}_{end}.json", {"weather": weather, "air": air})
